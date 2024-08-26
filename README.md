@@ -1,2 +1,5 @@
 # PurpleCube-THREE.JS
-Simple THREEJS Purple Cube Rendered on a Canvas 
+Simple Purple Cube Rendered on a Canvas using three.js library
+
+Using HTML, CSS, JAVASCRIPT, THREEJS 
+
